@@ -37,7 +37,7 @@ async function repl() {
     const parser = new Parser();
     const env = createGlobalEnv();
 
-    console.log("Repl v1.0 (Bussin)");
+    console.log("Repl v1.0 (bullshit)");
 
     while (true) {
         const input = await rl.question("> ");

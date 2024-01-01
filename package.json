@@ -2,7 +2,7 @@
   "version": "1.2.1",
   "scripts": {
 
-    "bussin": "npx ts-node src/main.ts"
+    "bullshit": "npx ts-node src/main.ts"
 
   },
 
