@@ -1,15 +1,13 @@
 An esoteric programming language, in TypeScript for heaven's sake.
 
-*P.S. Install the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=face-hh.bullshit) for syntax highlighting!*
-
 # Running
 - To run a specific file: `npm run bullshit <FILENAME>`
-- To run in repl mode (bullshit only): `npm run bullshit`
+- To run in repl mode (Bullshit only): `npm run Bullshit`
 
 # Bullshit
 You can find an example at `/examples/main.bs`
 
-# Bullshit X 🚀
+# bullshit X 🚀
 We, at bullshit, believe everyone should be entertained while coding. Meet our alternative: **.bsx**.
 
 Inside **Bullshit X**, you *can* use BS syntax, however, it's recommended to use the **BSX** syntax described below. 
@@ -153,7 +151,7 @@ yall: number(lit: object i: number be 0: object rn i smol 10 rn i be i + 1){
 **Note**: Types don't do anything, in fact, they're removed before the lexer kicks in.
 
 ## Try Catch
-bullshit X also supports `try` `catch` statements:
+Bullshit X also supports `try` `catch` statements:
 ```rs
 fuck_around {
     waffle(null + hogrider)
@@ -220,4 +218,4 @@ waffle(x)
 - [DreamBerd](https://github.com/TodePond/DreamBerd) for the inspiration
 - [AST explorer](https://astexplorer.net/) for the helpful tool
 
-Created with pure fucking hate by Dean Hiranburana ♥
+Created with pure fucking hate by Face ♥
