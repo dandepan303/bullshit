@@ -1,7 +1,7 @@
 An esoteric programming language, in TypeScript for heaven's sake.
 
 # Running
-- To run a specific file: `npm run Bullshit <FILENAME>`
+- To run a specific file: `npm run bullshit <FILENAME>`
 - To run in repl mode (Bullshit only): `npm run Bullshit`
 
 # Bullshit
