@@ -218,4 +218,4 @@ waffle(x)
 - [DreamBerd](https://github.com/TodePond/DreamBerd) for the inspiration
 - [AST explorer](https://astexplorer.net/) for the helpful tool
 
-Created with pure fucking hate by Face ♥
+Created with pure fucking hate by Dean ♥
