@@ -6,13 +6,13 @@ An esoteric programming language, in TypeScript for heaven's sake.
 - To run a specific file: `npm run bullshit <FILENAME>`
 - To run in repl mode (bullshit only): `npm run bullshit`
 
-# bullshit
+# Bullshit
 You can find an example at `/examples/main.bs`
 
-# bullshit X 🚀
+# Bullshit X 🚀
 We, at bullshit, believe everyone should be entertained while coding. Meet our alternative: **.bsx**.
 
-Inside **bullshit X**, you *can* use BS syntax, however, it's recommended to use the **BSX** syntax described below. 
+Inside **Bullshit X**, you *can* use BS syntax, however, it's recommended to use the **BSX** syntax described below. 
 
 ### New!
 - `lit n be fake rn` will create `n` as `null`.
@@ -60,7 +60,7 @@ lit x be 34 rn
 lit y be 12 rn
 lit z be x - y rn
 ```
-**Note**: We, at bullshit X, believe decimals are redundant. You can only use positive values too.
+**Note**: We, at Bullshit X, believe decimals are redundant. You can only use positive values too.
 
 ### Null
 ```rs
@@ -75,7 +75,7 @@ lit y be cap rn
 ```
 
 ### Objects
-Objects are essential in programming languages. bullshit X supports them too:
+Objects are essential in programming languages. Bullshit X supports them too:
 ```rs
 lit x be cap rn
 lit obj be { key: nocap, x } rn
@@ -84,9 +84,9 @@ obj.key be cap
 waffle(obj.key)
 ```
 ### Arrays
-We, at bullshit X, believe arrays are redundant.
+We, at Bullshit X, believe arrays are redundant.
 ## Comments
-We, at bullshit X, believe comments are redundant. Code must be understandable without English.
+We, at Bullshit X, believe comments are redundant. Code must be understandable without English.
 
 ## Functions
 Functions in programming are intricate entities that serve as modular units of code designed to perform specific tasks with a high degree of abstraction and reusability. These multifaceted constructs encapsulate a series of instructions, often comprising algorithmic operations and logical conditions, which execute a well-defined purpose within a larger program. Functionality is delineated through a meticulously crafted signature, encompassing parameters and return types, allowing for parameterization and value transmission between the calling code and the function body. The complexity further burgeons as functions may exhibit a plethora of characteristics, including but not limited to recursion, closures, and the ability to manipulate variables within their designated scopes. Their utility extends beyond mere procedural decomposition, often intertwining with the paradigms of object-oriented, functional, or imperative programming, depending on the programming language employed. The orchestration of functions, with their nuanced interplay, results in the orchestration of intricate software systems, promoting maintainability, readability, and the efficient allocation of computational resources. In essence, functions epitomize the sophisticated essence of programming, embodying the elegance and subtlety required to navigate the intricacies of algorithmic design and software engineering. You can create functions by using:
@@ -95,7 +95,7 @@ bruh perform(x, y) {
     x - y
 }
 ```
-We, at bullshit X, think `return` statements are redundant. Instead, our superior functions return the last value emitted.
+We, at Bullshit X, think `return` statements are redundant. Instead, our superior functions return the last value emitted.
 ```rs
 bruh perform(x, y) {
     x + y // will do nothing
@@ -104,7 +104,7 @@ bruh perform(x, y) {
 ```
 
 ## If statements
-If statements in bullshit X are very intuitive:
+If statements in Bullshit X are very intuitive:
 ```rs
 sus (1 fr 1){
     waffle("1 is 1")
@@ -120,14 +120,14 @@ sus (1 fr 1){
 ```
 
 ## Loops
-Loops in bullshit X are very easy:
+Loops in Bullshit X are very easy:
 ```rs
 yall(lit i be 0 rn i smol 10 rn i be i + 1){}
 ```
-Because we, at bullshit X, believe programmers should be responsible for their code, we did not add any `break` or `continue` keyword functionality to loops.
+Because we, at Bullshit X, believe programmers should be responsible for their code, we did not add any `break` or `continue` keyword functionality to loops.
 
 ## Types
-Types in bullshit X are very important!
+Types in Bullshit X are very important!
 ```rs
 lit num: number be 0 rn
 ```
@@ -175,7 +175,7 @@ waffle(nerd.random())
 waffle(nerd.sqrt(144))
 waffle(nerd.pi)
 ```
-Even though bullshit X doesn't support negative (-) or decimal (.) numbers, we added helper functions for your anxiety:
+Even though Bullshit X doesn't support negative (-) or decimal (.) numbers, we added helper functions for your anxiety:
 ```rs
 waffle(nerd.ceil(3.4))
 waffle(nerd.round(3.9))
@@ -220,4 +220,4 @@ waffle(x)
 - [DreamBerd](https://github.com/TodePond/DreamBerd) for the inspiration
 - [AST explorer](https://astexplorer.net/) for the helpful tool
 
-Created with pure fucking hate by Face ♥
+Created with pure fucking hate by Dean Hiranburana ♥
