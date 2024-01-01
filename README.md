@@ -1,7 +1,5 @@
 An esoteric programming language, in TypeScript for heaven's sake.
 
-*P.S. Install the [VSCode extension](https://marketplace.visualstudio.com/items?itemName=face-hh.Bullshit) for syntax highlighting!*
-
 # Running
 - To run a specific file: `npm run Bullshit <FILENAME>`
 - To run in repl mode (Bullshit only): `npm run Bullshit`
